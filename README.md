@@ -114,7 +114,8 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![Alt text](output-6.png)
+![output-6](https://github.com/karthick-2003-coder/cover/assets/135232854/e3357d37-518f-4d99-a80b-331a5c12ee06)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
